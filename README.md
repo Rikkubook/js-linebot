@@ -1,2 +1,2 @@
 # js-linebot
-Created with CodeSandbox
+練習串接Line -message
